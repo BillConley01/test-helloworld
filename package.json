@@ -4,6 +4,7 @@
   "description": "little tiers",
   "main": "http_server.js",
   "scripts": {
+    "build": "",
     "test": "jest"
   },
   "repository": {
